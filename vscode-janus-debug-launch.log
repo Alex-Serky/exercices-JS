@@ -1,0 +1,4 @@
+INFO |00000.080|JanusDebugSession: launchRequest
+DEBUG|00000.080|JanusDebugSession: my workspace: /Applications/XAMPP/xamppfiles/htdocs/JS_30exos
+ERROR|00000.080|JanusDebugSession: launchRequest failed: no script specified by user
+INFO |00000.083|JanusDebugSession: disconnectRequest
